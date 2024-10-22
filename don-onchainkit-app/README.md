@@ -1,8 +1,8 @@
-# don-onchainkit-app
+# CrytoLit
 
 ## Introduction
 
-The `don-onchainkit-app` is a Next.js application that integrates with Coinbase's OnchainKit for wallet and identity management. It is part of a larger project that demonstrates a basic Hardhat use case and provides a sample project for creating decentralized applications (dApps) with Ethereum smart contracts. The project includes:
+The `CrytoLit` is a Next.js application that integrates with Coinbase's OnchainKit for wallet and identity management. It is part of a larger project that demonstrates a basic Hardhat use case and provides a sample project for creating decentralized applications (dApps) with Ethereum smart contracts. The project includes:
 
 * A sample contract (`contracts/Donation.sol` and `contracts/Flagging.sol`)
 * A test for the contract (`test/donation.js`)
@@ -34,7 +34,7 @@ Here are the future improvements planned for this project:
 * **Advanced flagging and moderation**: Enhance the flagging system to include more sophisticated moderation tools, such as automated content analysis and community-driven moderation. This will help maintain the quality and integrity of the platform.
 * **Integration with other blockchain networks**: Expand the project's compatibility with other blockchain networks beyond Ethereum, such as Binance Smart Chain or Polygon. This will increase the project's reach and provide more options for users.
 * **Mobile app development**: Develop a mobile application for the project to provide a more accessible and user-friendly experience for users on the go.
-* **Enhanced UI/UX**: Continuously improve the user interface and user experience of the `don-onchainkit-app` to make it more intuitive and visually appealing. This includes refining the design, adding animations, and optimizing performance.
+* **Enhanced UI/UX**: Continuously improve the user interface and user experience of the `CrytoLit` to make it more intuitive and visually appealing. This includes refining the design, adding animations, and optimizing performance.
 * **Additional payment options**: Integrate support for additional payment options, such as stablecoins or other cryptocurrencies, to provide more flexibility for users when making donations.
 * **Multilingual support**: Add support for multiple languages to make the platform accessible to a broader audience. This includes translating the user interface and providing localized content.
 * **Smart contract upgrades**: Regularly review and upgrade the smart contracts to incorporate new features, improve security, and optimize performance. This includes updating the `contracts/Donation.sol` and `contracts/Flagging.sol` contracts as needed.

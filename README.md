@@ -1,7 +1,6 @@
-# Sample Hardhat Project
+# CrytoLit : Decentralised article funding app.
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
-
 ## Introduction
 
 The main purpose of this project is to demonstrate a basic Hardhat use case and provide a sample project for creating decentralized applications (dApps) with Ethereum smart contracts. The project includes:
@@ -37,9 +36,9 @@ To deploy the smart contracts in this project, follow these steps:
 * Deploy the smart contracts using the provided Hardhat script by running `npx hardhat run scripts/deploy.js`.
 * Note the deployed contract addresses from the console output for further use in the Next.js application.
 
-## Key Features of `don-onchainkit-app`
+## Key Features of `CrytoLit`
 
-The `don-onchainkit-app` has several key features that make it a robust and user-friendly application for managing articles and donations. Here are the main features:
+The `CrytoLit` has several key features that make it a robust and user-friendly application for managing articles and donations. Here are the main features:
 
 * **Wallet and identity management**: The application integrates with Coinbase's OnchainKit for wallet and identity management, allowing users to connect their wallets, view their identity information, and manage their Ethereum balances. This is implemented in files like `don-onchainkit-app/app/page.tsx` and `don-onchainkit-app/components/Layout.tsx`.
 * **Article management**: Users can create, view, and manage articles. The `don-onchainkit-app/pages/create-article.tsx` file provides the functionality for creating new articles, while `don-onchainkit-app/pages/articles.tsx` allows users to view and donate to existing articles.
