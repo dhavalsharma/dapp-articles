@@ -21,6 +21,7 @@ To set up this project, you need to ensure you have the following prerequisites:
 * Next.js: The project includes a Next.js application. You can install Next.js globally using npm with the command `npm install -g next`.
 * Environment variables: The project requires certain environment variables to be set. Create a `.env` file in the root directory and add the necessary environment variables such as `INFURA_RINKEBY_URL`, `INFURA_MAINNET_URL`, and `PRIVATE_KEY`.
 * Dependencies: Install the project dependencies by running `npm install` in the root directory and in the `don-onchainkit-app` directory.
+*  Ensure that a copy of the artifacts folder is kept in the ./artifacts directory. This is necessary to access contract JSON files such as 'DonationModule#Donation.json'.
 
 These prerequisites will ensure that you have the necessary tools and dependencies to set up and run the project.
 
